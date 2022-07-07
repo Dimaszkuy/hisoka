@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By Dimass official.
+   * Contact Me on wa.me/6281259929402
+   * Follow https://github.com/Dimaszkuy
 */
 
 const fs = require('fs')
@@ -18,10 +18,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285822347348','6285822347348','6285822347348']
-global.premium = ['6285822347348']
+global.owner = ['6281259929402','6281259929402','6281259929402']
+global.premium = ['6281259929402']
 global.packname = 'Sticker by'
-global.author = 'ArullOfc'
+global.author = 'Hisoka'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
